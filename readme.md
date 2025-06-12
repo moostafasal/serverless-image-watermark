@@ -137,10 +137,5 @@ Each Lambda function has a dedicated IAM Role with scoped permissions.
 ![Architecture](project2_diagram.png)
 
 
-## 🎥 Demo Video
-
-Click the image below to watch a full demo of the project:
-
-[![Watch the demo](https://img.youtube.com/vi/g5Yg5QN_ctA/hqdefault.jpg)](https://youtu.be/g5Yg5QN_ctA)
 
 
